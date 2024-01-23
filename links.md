@@ -6,3 +6,7 @@ https://www.algolia.com/blog/ai/what-are-vectors-and-how-do-they-apply-to-machin
 # Applications of vectors in real life
 1. Game development
 2. Training models using neural networks
+
+# Matrices
+They help as organize data into grids
+Matrices are arrays with rows and columns
