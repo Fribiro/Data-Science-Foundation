@@ -10,3 +10,9 @@ https://www.algolia.com/blog/ai/what-are-vectors-and-how-do-they-apply-to-machin
 # Matrices
 They help as organize data into grids
 Matrices are arrays with rows and columns
+
+# Array Broadcasting in Numpy
+https://numpy.org/doc/1.20/user/theory.broadcasting.html
+
+# Formula to get determinant of an identity matrix
+{det}(A) = a(ei - fh) - b(di - fg) + c(dh - eg)
