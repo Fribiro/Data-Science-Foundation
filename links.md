@@ -16,3 +16,5 @@ Quartile
 Percentile
 Interquartile range
 Outlier
+Sample variance
+Population variance
