@@ -16,3 +16,12 @@ https://numpy.org/doc/1.20/user/theory.broadcasting.html
 
 # Formula to get determinant of an identity matrix
 {det}(A) = a(ei - fh) - b(di - fg) + c(dh - eg)
+
+# Read
+Quartile
+Percentile
+Interquartile range
+Outlier
+Sample variance
+Population variance
+
