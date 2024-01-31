@@ -18,3 +18,15 @@ Interquartile range
 Outlier
 Sample variance
 Population variance
+Coefficient of variance
+Standard deviation
+
+# Breakoutroom challenge
+Missing values
+Descriptive data
+Calculate variance and interpret findings
+
+# Probability
+Probability
+Z score
+Confidence intterval
