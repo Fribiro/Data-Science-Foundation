@@ -24,7 +24,6 @@ Interquartile range
 Outlier
 Sample variance
 Population variance
-<<<<<<< HEAD
 Coefficient of variance
 Standard deviation
 
@@ -37,6 +36,3 @@ Calculate variance and interpret findings
 Probability
 Z score
 Confidence intterval
-=======
-
->>>>>>> 7c52ee99ac90a10db0fc8df8c9951d13163c8bcf
