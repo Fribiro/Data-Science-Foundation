@@ -10,3 +10,7 @@ https://www.algolia.com/blog/ai/what-are-vectors-and-how-do-they-apply-to-machin
 # Matrices
 They help as organize data into grids
 Matrices are arrays with rows and columns
+Steps of hypothesis testing
+Central limit theorem
+if the p_value < std_dev we reject the null hypothesis, otherwise we fail to reject
+Hypothesis testing
